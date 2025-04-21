@@ -107,6 +107,8 @@ httpd.serve_forever()
 
 ```
 **OUTPUT:**
+
+
 ![alt text](<Screenshot 2025-04-21 221629.png>)
 
 ![alt text](<Screenshot 2025-04-21 221835.png>)
